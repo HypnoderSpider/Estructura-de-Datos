@@ -1,1 +1,1 @@
-
+Se analizo que se usa la memoria esatica cuando los numeros que se vayan a usar en un arreglo sean ya conocidos osea que tengan un numero preterminado ya que es mas rigido y el tamaño siempre va definido y no puede cambiar, en cambio la dinamica es mas aceptable en entornos donde los datos cambien constantemente ya que en este arreglo los ddatos pueden aumentar o disminuir ah consideracion de uno mismo, no necesitamos definir el tamaño.
